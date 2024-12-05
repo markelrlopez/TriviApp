@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/markelrlopez/TriviApp/pull/73 -->
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -239,16 +239,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/markelrlopez/TriviApp.svg?style=for-the-badge
+[contributors-url]: https://github.com/markelrlopez/TriviApp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/markelrlopez/TriviApp.svg?style=for-the-badge
+[forks-url]: https://github.com/markelrlopez/TriviApp/network/members
+[stars-shield]: https://img.shields.io/github/stars/markelrlopez/TriviApp.svg?style=for-the-badge
+[stars-url]: https://github.com/markelrlopez/TriviApp/stargazers
+[issues-shield]: https://img.shields.io/github/issues/markelrlopez/TriviApp.svg?style=for-the-badge
+[issues-url]: https://github.com/markelrlopez/TriviApp/issues
+[license-shield]: https://img.shields.io/github/license/markelrlopez/TriviApp.svg?style=for-the-badge
+[license-url]: https://github.com/markelrlopez/TriviApp/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
