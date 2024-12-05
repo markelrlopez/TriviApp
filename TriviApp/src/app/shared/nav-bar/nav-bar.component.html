@@ -1,0 +1,20 @@
+<nav class="navbar py-0 noselect">
+    <div class="navbar-content w-100">
+        <div class="logo">
+            <!-- <img src="./../../../assets/images/tortillometroLogo.png" alt=""> -->
+            <h1>Tortill√≥metro</h1>
+            <ng-container *hasRole="['admin']">
+                <div class="rol-admin h-100 d-flex justify-content-center align px-2" >
+                    <!-- <i class='bx bxs-wrench admin-icon' (click)="goToLogger()"></i> -->
+                </div>
+            </ng-container>
+            <ng-container *hasRole="['mod']">
+                <div class="rol-mod h-100 d-flex justify-content-center align px-2">
+                    <p class="m-0">Mod</p>
+                    <!-- <i class='bx bxs-wrench admin-icon' (click)="goToLogger()"></i> -->
+                </div>
+            </ng-container>
+        </div>
+
+    </div>
+</nav>

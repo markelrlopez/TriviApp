@@ -1,0 +1,8 @@
+/* This file should include global styles, CSS resets, and important dependencies. It's the entry point for your global styling. */
+@import 'variables';
+@import 'mixins';
+@import 'functions';
+@import 'typography';
+@import 'base';
+@import 'layout';
+@import 'utilities';
